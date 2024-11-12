@@ -1,0 +1,15 @@
+C:\Users\НИКИТА\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\НИКИТА\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\НИКИТА\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\НИКИТА\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\НИКИТА\source\repos\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\НИКИТА\source\repos\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\НИКИТА\source\repos\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\НИКИТА\source\repos\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\НИКИТА\source\repos\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\НИКИТА\source\repos\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\НИКИТА\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\НИКИТА\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\НИКИТА\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\НИКИТА\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\НИКИТА\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
